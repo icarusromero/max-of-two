@@ -1,0 +1,9 @@
+console.log("NodeJS Version: " + process.version)
+var varx = 1;
+var vary = 2;
+if(varx > vary) {
+  console.log(varx);
+}
+if(vary > varx) {
+  console.log(vary);
+}
